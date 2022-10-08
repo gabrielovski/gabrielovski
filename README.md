@@ -1,11 +1,19 @@
 ## 💜 Olá, meu nome é <strong>Gabriel!</strong>
 
-> Faça uma breve aprensentação sobre você e a sua área.
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+> Sou um desenvolvedor iniciando em front-end e com objetivo de cursar Engenharia de Software.
+🔭 No momento estou desenvolvendo um site para um bot de música do discord junto com alguns amigos.
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+💬 Clique em alguma das redes sociais abaixo para entrar em contato.
 
 ----
+
+## 📲 Redes sociais
+
+  <a href="https://instagram.com/_bielcrodrigues" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabrielcavalcante30/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:gabriel8.cavalcante@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+---
 
 ## 🚀 Minhas Skills
 
@@ -14,14 +22,6 @@
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 
----
-
-## 📲 Redes sociais
-
-  <a href="https://instagram.com/_bielcrodrigues" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabrielcavalcante30/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:gabriel8.cavalcante@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
