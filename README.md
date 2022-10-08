@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>Gabriel!</strong>
 
-> Sou um desenvolvedor iniciando em front-end e com objetivo de cursar Engenharia de Software.
+> Sou um desenvolvedor iniciante em front-end e com objetivo de cursar Engenharia de Software.<br>
 🔭 No momento estou desenvolvendo um site para um bot de música do discord junto com alguns amigos.
 
 💬 Clique em alguma das redes sociais abaixo para entrar em contato.
