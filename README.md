@@ -1,5 +1,5 @@
-## Olá pessoas, me chamo Gabriel e no momento estou estudando Front-End!
-<div align="center; display:table;">
+## Olá pessoas, me chamo Gabriel e sou estudante de front-end!
+<div align="center;">
   <a href="https://github.com/gabrielovski">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielovski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielovski&layout=compact&langs_count=7&theme=dracula"/>
