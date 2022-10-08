@@ -1,22 +1,35 @@
-## Olá! Seja bem-vindo(a) ao meu perfil!
-<div align="center">
-  <a href="https://github.com/gabrielovski">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielovski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielovski&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+## 💜 Olá, meu nome é <strong>Gabriel!</strong>
+
+> Faça uma breve aprensentação sobre você e a sua área.
+🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+
+💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+
+----
+
+## 🚀 Minhas Skills
+
 <div style="display: inline_block"><br>
   <a href="https://github.com/gabrielovski">
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 </div>
-  
-  ##
-  
+
+---
+
+## ⭐ Informações sobre minha conta GitHub
+
 <div> 
   <a href="https://instagram.com/_bielcrodrigues" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielcavalcante30/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:gabriel8.cavalcante@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/gabrielovski">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gabrielovski&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielovski&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ![snake gif](https://github.com/gabrielovski/gabrielovski/blob/output/github-contribution-grid-snake.svg)
