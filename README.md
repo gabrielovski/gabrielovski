@@ -19,4 +19,7 @@
   <a href="mailto:gabriel8.cavalcante@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-![snake gif](https://github.com/gabrielovski/gabrielovski/blob/output/github-contribution-grid-snake.svg)
+<div>
+  <a href="https://github.com/gabrielovski">
+  ![snake gif](https://github.com/gabrielovski/gabrielovski/blob/output/github-contribution-grid-snake.svg)
+</div>
