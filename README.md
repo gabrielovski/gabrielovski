@@ -32,4 +32,4 @@
 
 ![snake gif](https://github.com/gabrielovski/gabrielovski/blob/output/github-contribution-grid-snake.svg)
 
-[⬆ Voltar ao topo](#readme)<br>
+[⬆ Voltar ao topo](#-olá-meu-nome-é-gabriel)<br>
