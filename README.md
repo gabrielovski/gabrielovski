@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>Gabriel!</strong>
 
-> Sou um desenvolvedor iniciante em front-end e com objetivo de cursar Engenharia de Software.
+> No momento, estou cursando Análise e Desenvolvimento de Sistemas na Unifametro.
 
 💬 Clique em alguma das redes sociais abaixo para entrar em contato:
 
