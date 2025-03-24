@@ -2,7 +2,7 @@
 
 ### Seja bem vindo (a) ao meu perfil! 
 
-Meu nome é Gabriel Cavalcante e no momento estou cursando o 4º semestre de Análise e Desenvolvimento de Sistemas na Unifametro e com o foco em atuar na área de desenvolvimento.
+Meu nome é Gabriel Cavalcante e no momento estou cursando o 5º semestre de Análise e Desenvolvimento de Sistemas na Unifametro e com o foco em atuar na área de desenvolvimento.
 
 <a href="https://www.linkedin.com/in/gabrielcavalcante30/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielcavalcante30/" alt="LinkedIn"/></a>
